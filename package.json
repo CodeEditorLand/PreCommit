@@ -1,35 +1,11 @@
 {
 	"name": "@biomejs/pre-commit",
-	"version": "0.0.1",
-	"private": false,
 	"description": "Biome pre-commit node package",
-	"keywords": [
-		"land"
-	],
-	"homepage": "HTTPS://GitHub.Com/CodeEditorLand/PreCommit#readme",
-	"bugs": {
-		"url": "HTTPS://GitHub.Com/CodeEditorLand/PreCommit/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+HTTPS://github.com/CodeEditorLand/PreCommit.git"
-	},
-	"license": "SEE LICENSE IN LICENSE",
-	"author": {
-		"name": "🛬 Land —",
-		"email": "Land@PlayForm.Cloud",
-		"url": "HTTPS://Land.PlayForm.Cloud"
-	},
-	"type": "module",
 	"scripts": {
 		"Document": "Document 'Source/**/*.ts'",
 		"prepublishOnly": "Build 'Source/**/*.ts'"
 	},
 	"devDependencies": {
-		"@playform/build": "0.0.7",
-		"@playform/document": "0.0.6"
-	},
-	"publishConfig": {
-		"access": "public"
+		"@playform/build": "0.0.7"
 	}
 }

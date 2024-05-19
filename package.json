@@ -1,11 +1,5 @@
 {
-	"name": "@biomejs/pre-commit",
-	"description": "Biome pre-commit node package",
-	"scripts": {
-		"Document": "Document 'Source/**/*.ts'",
-		"prepublishOnly": "Build 'Source/**/*.ts'"
-	},
-	"devDependencies": {
-		"@playform/build": "0.0.7"
-	}
+    "name": "@biomejs/pre-commit",
+    "description": "Biome pre-commit node package",
+    "version": "0.0.0"
 }

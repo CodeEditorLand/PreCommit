@@ -1,9 +1,1 @@
-{
-<<<<<<< HEAD
-	"description": "Biome pre-commit node package",
-	"name": "@biomejs/pre-commit"
-=======
-	"name": "@biomejs/pre-commit",
-	"description": "Biome pre-commit node package"
->>>>>>> b24d2e2aee1bc549390d385c427dc89b2e978cbb
-}
+
